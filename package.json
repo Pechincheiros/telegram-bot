@@ -1,0 +1,14 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Bot para gerenciar o canal de ofertas Pechincheiros",
+  "main": "api/index.ts",
+  "repository": "https://github.com/Pechincheiros/telegram-bot.git",
+  "author": "Rayan Castro",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/node": "^1.8.5",
+    "telegraf": "^3.38.0",
+    "typescript": "^4.1.2"
+  }
+}
